@@ -61,4 +61,4 @@ user_initial_state = np.random.choice([0, 1], size=(100, 100))
 
 run_game(user_initial_state)
 
-# 歪比歪比阿巴阿巴
+# 歪比歪比阿巴阿
